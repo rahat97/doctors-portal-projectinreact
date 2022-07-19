@@ -32,11 +32,11 @@ const Testimonials = () => {
         <section  class='my-28'>
             <div  class='flex justify-between'>
                 <div>
-                    <h4  class="text-xl text-primary font-bold">Testimonials</h4>
+                    <h4  className="text-xl text-primary font-bold">Testimonials</h4>
                     <h2  class='text-3xl'>What our Patients say</h2>
                 </div>
                 <div>
-                    <img src={quote}  class="w-24 lg:w-48" alt="" />
+                    <img src={quote}  className="w-24 lg:w-48" alt="" />
                 </div>
             </div>
             <div  class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>

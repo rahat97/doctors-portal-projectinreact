@@ -9,8 +9,8 @@ const Contacts = () => {
                 <h2 className="text-xl my-5 text-green-500">Drop us a line</h2>
 
                 <h3 className="font-bold">Write to us</h3>
-                <input type="text" placeholder="Type here" class="my-5 input input-bordered input-primary w-full max-w-xs" />
-                <button class="mx-5 btn btn-success">Send</button>
+                <input type="text" placeholder="Type here" className="my-5 input input-bordered input-primary w-full max-w-xs" />
+                <button className="mx-5 btn btn-success">Send</button>
 
                 <div className="my-10">
                 <h4><h3 className="font-bold">Our Email:</h3> info@gmail.com </h4>

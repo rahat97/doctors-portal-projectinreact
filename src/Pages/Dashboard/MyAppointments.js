@@ -3,10 +3,10 @@ import React from "react";
 const MyAppointments = () => {
     return (
         <div>
-            <h2  class="font-bold my-5">Appointments List:</h2>
+            <h2  className="font-bold my-5">Appointments List:</h2>
 
-            <div class="overflow-x-auto">
-                <table class="table w-full">
+            <div className="overflow-x-auto">
+                <table className="table w-full">
                     <thead>
                         <tr>
                             <th>NO</th>

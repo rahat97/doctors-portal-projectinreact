@@ -18,7 +18,7 @@
 //             <input type="checkbox" id="booking-modal"className="modal-toggle" />
 //             <divclassName="modal modal-bottom sm:modal-middle">
 //                 <divclassName="modal-box">
-//                     <label for="booking-modal"className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
+//                     <labelhtmlFor="booking-modal"className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
 //                     <h3className="font-bold text-lg text-secondary">Booking for: {name}</h3>
 //                     <form onSubmit={handleBooking} className='grid grid-cols-1 gap-3 justify-items-center mt-2'>
 //                         <input type="text" disabled value={format(date, 'PP')}className="input input-bordered w-full max-w-xs" />
